@@ -1,4 +1,4 @@
-- Hi, I’m Ashutosh👋
+- Hi👋, I’m Ashutosh
 - I’m interested in machine learning and AI based things👀
 - I’m currently learning python 🐍
 - I’m looking to collaborate on AI based project🤝
